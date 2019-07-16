@@ -1,6 +1,6 @@
 certifi==2019.3.9
 chardet==3.0.4
-Django==1.11.21
+Django==1.11.22
 django-allauth==0.39.1
 django-cors-headers==3.0.1
 django-rest-auth==0.9.5
